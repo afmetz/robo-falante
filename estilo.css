@@ -1,0 +1,12 @@
+div {
+background-size: cover;
+background-image: url(praia.png);
+width: 90%;
+height: 600px;
+}
+
+.robo {
+position:absolute;
+bottom: 50px;
+left: 50px;    
+}
